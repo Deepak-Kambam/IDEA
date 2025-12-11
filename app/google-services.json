@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477253277868",
+    "project_id": "easybot-d6877",
+    "storage_bucket": "easybot-d6877.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477253277868:android:b9807eeeb4b5d665df2709",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.easybot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7IdP17_cle9UfneH3nvZrLu-IUY_B5yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
